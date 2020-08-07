@@ -5,7 +5,7 @@ const arr1 = [2, 4, 5, "a", 17, "r", 9, 9];
 // 1. Value you want to fill in
 // 2. starting index
 // 3. stopping index
-arr1.fill("b", 1);
+arr1.fill("b", 1, 3);
 console.log(arr1);
 
 // const arr2 = [1,2,3,4];
