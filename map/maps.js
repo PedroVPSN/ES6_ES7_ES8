@@ -1,3 +1,4 @@
+// Map Method
 // Map is just a key-value pair. It's FAR MORE PROTECTED than is a regular object.
 // It also comes wiht some cool methods specific to map.
 // It is also an iterable.
